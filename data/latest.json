@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-28T08:48:45Z",
+ "generatedAt": "2026-10-28T09:35:25Z",
  "date": "2026-10-28",
  "ok_sources": 6,
  "sources": {
@@ -211,9 +211,9 @@
    "label": "NVD 新披露 CVE",
    "status": "ok",
    "data": {
-    "published_7d": 3137,
+    "published_7d": 3134,
     "critical_7d": 171,
-    "high_7d": 587,
+    "high_7d": 582,
     "critical_list": [
      {
       "cve": "CVE-2026-111832",
